@@ -14,3 +14,9 @@ AThisKindaWorksGameMode::AThisKindaWorksGameMode()
 
 
 }
+
+void AThisKindaWorksGameMode::InitGame()
+{
+	Super::InitGame(MapName, Options, ErrorMessage);
+	UE_LOG(HelloBitPaw, Log, TEXT("Game is currently running on Level: %s and %s"), *MapName, *Options);
+}

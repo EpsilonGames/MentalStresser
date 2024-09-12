@@ -3,3 +3,6 @@
 #pragma once
 
 #include "CoreMinimal.h"
+
+DEFINE_LOG_CATEGORY(HelloBitPaw);
+IMPLEMENT_PRIMARY_GAME_MODULE(FDefaultGameModuleImpl, HelloBitPaw, "BitPaw");
