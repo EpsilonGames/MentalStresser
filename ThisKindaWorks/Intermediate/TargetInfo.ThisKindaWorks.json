@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ThisKindaWorks",
+			"Path": "..\\Source\\ThisKindaWorks.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ThisKindaWorksEditor",
+			"Path": "..\\Source\\ThisKindaWorksEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

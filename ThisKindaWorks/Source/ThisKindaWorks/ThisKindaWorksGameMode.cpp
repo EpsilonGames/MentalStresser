@@ -3,6 +3,7 @@
 #include "ThisKindaWorksGameMode.h"
 #include "ThisKindaWorksCharacter.h"
 #include "UObject/ConstructorHelpers.h"
+#include "ThisKindaWorks.h"
 
 AThisKindaWorksGameMode::AThisKindaWorksGameMode()
 	: Super()
@@ -10,5 +11,6 @@ AThisKindaWorksGameMode::AThisKindaWorksGameMode()
 	// set default pawn class to our Blueprinted character
 	static ConstructorHelpers::FClassFinder<APawn> PlayerPawnClassFinder(TEXT("/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter"));
 	DefaultPawnClass = PlayerPawnClassFinder.Class;
+
 
 }
