@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ThisKindaWorks.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ThisKindaWorks.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ThisKindaWorksEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ThisKindaWorks">
+      <UniqueIdentifier>{37BE2980-E355-3313-AEA6-585324B43319}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ThisKindaWorks\ThisKindaWorks.Build.cs">
+      <Filter>Source\ThisKindaWorks</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ThisKindaWorks\ThisKindaWorks.cpp">
+      <Filter>Source\ThisKindaWorks</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ThisKindaWorks\ThisKindaWorks.h">
+      <Filter>Source\ThisKindaWorks</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ThisKindaWorks\ThisKindaWorksCharacter.cpp">
+      <Filter>Source\ThisKindaWorks</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ThisKindaWorks\ThisKindaWorksCharacter.h">
+      <Filter>Source\ThisKindaWorks</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ThisKindaWorks\ThisKindaWorksGameMode.cpp">
+      <Filter>Source\ThisKindaWorks</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ThisKindaWorks\ThisKindaWorksGameMode.h">
+      <Filter>Source\ThisKindaWorks</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ThisKindaWorks\ThisKindaWorksPlayerController.cpp">
+      <Filter>Source\ThisKindaWorks</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ThisKindaWorks\ThisKindaWorksPlayerController.h">
+      <Filter>Source\ThisKindaWorks</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ThisKindaWorks\ThisKindaWorksProjectile.cpp">
+      <Filter>Source\ThisKindaWorks</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ThisKindaWorks\ThisKindaWorksProjectile.h">
+      <Filter>Source\ThisKindaWorks</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ThisKindaWorks\TP_PickUpComponent.cpp">
+      <Filter>Source\ThisKindaWorks</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ThisKindaWorks\TP_PickUpComponent.h">
+      <Filter>Source\ThisKindaWorks</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ThisKindaWorks\TP_WeaponComponent.cpp">
+      <Filter>Source\ThisKindaWorks</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ThisKindaWorks\TP_WeaponComponent.h">
+      <Filter>Source\ThisKindaWorks</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

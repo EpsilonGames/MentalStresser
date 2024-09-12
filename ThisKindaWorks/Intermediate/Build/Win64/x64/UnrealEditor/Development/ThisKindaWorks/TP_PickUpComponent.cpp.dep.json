@@ -1,0 +1,29 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\marcuspersson\\documents\\unreal school\\unreal_engine\\mentalstresser\\thiskindaworks\\source\\thiskindaworks\\tp_pickupcomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\marcuspersson\\documents\\unreal school\\unreal_engine\\mentalstresser\\thiskindaworks\\intermediate\\build\\win64\\x64\\thiskindaworkseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\marcuspersson\\documents\\unreal school\\unreal_engine\\mentalstresser\\thiskindaworks\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\thiskindaworks\\definitions.thiskindaworks.h",
+            "c:\\users\\marcuspersson\\documents\\unreal school\\unreal_engine\\mentalstresser\\thiskindaworks\\source\\thiskindaworks\\tp_pickupcomponent.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\spherecomponent.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\spherecomponent.generated.h",
+            "c:\\users\\marcuspersson\\documents\\unreal school\\unreal_engine\\mentalstresser\\thiskindaworks\\source\\thiskindaworks\\thiskindaworkscharacter.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "c:\\users\\marcuspersson\\documents\\unreal school\\unreal_engine\\mentalstresser\\thiskindaworks\\intermediate\\build\\win64\\unrealeditor\\inc\\thiskindaworks\\uht\\thiskindaworkscharacter.generated.h",
+            "c:\\users\\marcuspersson\\documents\\unreal school\\unreal_engine\\mentalstresser\\thiskindaworks\\intermediate\\build\\win64\\unrealeditor\\inc\\thiskindaworks\\uht\\tp_pickupcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
