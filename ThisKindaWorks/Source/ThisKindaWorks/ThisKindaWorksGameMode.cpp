@@ -39,3 +39,9 @@ void AThisKindaWorksGameMode::PreLogin(const FString& Options, const FString& Ad
 
 	Super::PreLogin(Options, Address, UniqueId, ErrorMessage);
 }
+
+void AThisKindaWorksGameMode::InitGame()
+{
+	Super::InitGame(MapName, Options, ErrorMessage);
+	UE_LOG(HelloBitPaw, Log, TEXT("Game is currently running on Level: %s and %s"), *MapName, *Options);
+}
