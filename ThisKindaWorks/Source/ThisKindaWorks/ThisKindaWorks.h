@@ -4,5 +4,4 @@
 
 #include "CoreMinimal.h"
 
-DEFINE_LOG_CATEGORY(HelloBitPaw);
-IMPLEMENT_PRIMARY_GAME_MODULE(FDefaultGameModuleImpl, HelloBitPaw, "BitPaw");
+DECLARE_LOG_CATEGORY_EXTERN(TestLog, Log, All);

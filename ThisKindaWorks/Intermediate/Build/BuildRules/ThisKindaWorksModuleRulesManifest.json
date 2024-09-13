@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\School\\MentalStresser\\ThisKindaWorks\\Source\\ThisKindaWorks\\ThisKindaWorks.Build.cs",
-		"C:\\School\\MentalStresser\\ThisKindaWorks\\Source\\ThisKindaWorks.Target.cs",
-		"C:\\School\\MentalStresser\\ThisKindaWorks\\Source\\ThisKindaWorksEditor.Target.cs"
+		"C:\\Users\\MarcusPersson\\Documents\\Unreal School\\Unreal_Engine\\MentalStresser\\ThisKindaWorks\\Source\\ThisKindaWorks\\ThisKindaWorks.Build.cs",
+		"C:\\Users\\MarcusPersson\\Documents\\Unreal School\\Unreal_Engine\\MentalStresser\\ThisKindaWorks\\Source\\ThisKindaWorks.Target.cs",
+		"C:\\Users\\MarcusPersson\\Documents\\Unreal School\\Unreal_Engine\\MentalStresser\\ThisKindaWorks\\Source\\ThisKindaWorksEditor.Target.cs"
 	],
 	"EngineVersion": "5.4.4"
 }

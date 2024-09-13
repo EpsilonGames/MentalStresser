@@ -1,11 +1,11 @@
-"C:\School\MentalStresser\ThisKindaWorks\Intermediate\Build\Win64\UnrealEditor\Inc\ThisKindaWorks\UHT\TP_PickUpComponent.gen.cpp"
-/FI"C:\School\MentalStresser\ThisKindaWorks\Intermediate\Build\Win64\x64\ThisKindaWorksEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/FI"C:\School\MentalStresser\ThisKindaWorks\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThisKindaWorks\Definitions.ThisKindaWorks.h"
-/Yu"C:\School\MentalStresser\ThisKindaWorks\Intermediate\Build\Win64\x64\ThisKindaWorksEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/Fp"C:\School\MentalStresser\ThisKindaWorks\Intermediate\Build\Win64\x64\ThisKindaWorksEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
-/Fo"C:\School\MentalStresser\ThisKindaWorks\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThisKindaWorks\TP_PickUpComponent.gen.cpp.obj"
-/sourceDependencies "C:\School\MentalStresser\ThisKindaWorks\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThisKindaWorks\TP_PickUpComponent.gen.cpp.dep.json"
-@"C:\School\MentalStresser\ThisKindaWorks\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThisKindaWorks\ThisKindaWorks.Shared.rsp"
+"C:\Users\MarcusPersson\Documents\Unreal School\Unreal_Engine\MentalStresser\ThisKindaWorks\Intermediate\Build\Win64\UnrealEditor\Inc\ThisKindaWorks\UHT\TP_PickUpComponent.gen.cpp"
+/FI"C:\Users\MarcusPersson\Documents\Unreal School\Unreal_Engine\MentalStresser\ThisKindaWorks\Intermediate\Build\Win64\x64\ThisKindaWorksEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/FI"C:\Users\MarcusPersson\Documents\Unreal School\Unreal_Engine\MentalStresser\ThisKindaWorks\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThisKindaWorks\Definitions.ThisKindaWorks.h"
+/Yu"C:\Users\MarcusPersson\Documents\Unreal School\Unreal_Engine\MentalStresser\ThisKindaWorks\Intermediate\Build\Win64\x64\ThisKindaWorksEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/Fp"C:\Users\MarcusPersson\Documents\Unreal School\Unreal_Engine\MentalStresser\ThisKindaWorks\Intermediate\Build\Win64\x64\ThisKindaWorksEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
+/Fo"C:\Users\MarcusPersson\Documents\Unreal School\Unreal_Engine\MentalStresser\ThisKindaWorks\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThisKindaWorks\TP_PickUpComponent.gen.cpp.obj"
+/sourceDependencies "C:\Users\MarcusPersson\Documents\Unreal School\Unreal_Engine\MentalStresser\ThisKindaWorks\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThisKindaWorks\TP_PickUpComponent.gen.cpp.dep.json"
+@"C:\Users\MarcusPersson\Documents\Unreal School\Unreal_Engine\MentalStresser\ThisKindaWorks\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThisKindaWorks\ThisKindaWorks.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi

@@ -3,6 +3,5 @@
 #include "ThisKindaWorks.h"
 #include "Modules/ModuleManager.h"
 
-DEFINE_LOG_CATEGORY(InitializeLog);
+DEFINE_LOG_CATEGORY(TestLog);
 IMPLEMENT_PRIMARY_GAME_MODULE( FDefaultGameModuleImpl, ThisKindaWorks, "ThisKindaWorks" );
-DECLARE_LOG_CATEGORY_EXTERN(HelloBitPaw, All, All);
