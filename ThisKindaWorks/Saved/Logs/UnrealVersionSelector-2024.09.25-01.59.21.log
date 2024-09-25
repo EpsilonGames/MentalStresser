@@ -1,0 +1,83 @@
+Log started at 09/25/2024 01:59:21 (2024-09-24T23:59:21Z)
+No config file at C:\ProgramData\Unreal Engine\UnrealBuildTool\BuildConfiguration.xml
+No config file at C:\Users\mjper\AppData\Local\Unreal Engine\UnrealBuildTool\BuildConfiguration.xml
+No config file at C:\Users\mjper\OneDrive\Documents\Unreal Engine\UnrealBuildTool\BuildConfiguration.xml
+Configuration will be read from:
+  C:\Users\mjper\AppData\Roaming\Unreal Engine\UnrealBuildTool\BuildConfiguration.xml
+Log file: C:\School\MentalStresser\ThisKindaWorks\Saved\Logs\UnrealVersionSelector-2024.09.25-01.59.21.log
+
+Setting temp directory to 'C:\Users\mjper\AppData\Local\Temp\UnrealBuildTool\44a120fc'
+    Registering build platform: UnrealBuildTool.AndroidPlatformFactory
+    Registering build platform: UnrealBuildTool.IOSPlatformFactory
+    Registering build platform: UnrealBuildTool.LinuxPlatformFactory
+    Registering build platform: UnrealBuildTool.MacPlatformFactory
+    Registering build platform: UnrealBuildTool.TVOSPlatformFactory
+    Registering build platform: UnrealBuildTool.WindowsPlatformFactory
+Found Windows 10 SDK root at C:\Program Files (x86)\Windows Kits\10 (1)
+Found Windows 10 SDK root at C:\Program Files (x86)\Windows Kits\10 (2)
+Found Windows 10 SDK version 10.0.22000.0 at C:\Program Files (x86)\Windows Kits\10
+Found Universal CRT version 10.0.22000.0 at C:\Program Files (x86)\Windows Kits\10
+Found Windows 10 SDK version 10.0.22621.0 at C:\Program Files (x86)\Windows Kits\10
+Found Universal CRT version 10.0.22621.0 at C:\Program Files (x86)\Windows Kits\10
+Win64 Installed SDK(s): MinVersion_Sdk=10.0.18362.0, MaxVersion_Sdk=10.9.99999.0, CurrentVersion_Sdk=10.0.22621.0, Version_AutoSdk=10.0.19041.0, CurrentVersion_AutoSdk=
+        Registering build platform: Win64 - buildable: True
+    Registering build platform: UnrealBuildTool.VisionOSPlatformFactory
+Log file: C:\Users\mjper\AppData\Local\UnrealBuildTool\Log_GPF.txt
+Deleting old log file: C:\Users\mjper\AppData\Local\UnrealBuildTool\Log_GPF-backup-2023.07.10-17.35.31.txt
+Resolved project argument C:/School/MentalStresser/ThisKindaWorks/ThisKindaWorks.uproject to C:\School\MentalStresser\ThisKindaWorks\ThisKindaWorks.uproject
+Registering project generator UnrealBuildTool.AndroidProjectGenerator for Android
+Skipping project file generator registration for Android due to no valid BuildPlatform.
+Registering project generator UnrealBuildTool.IOSProjectGenerator for IOS
+Skipping project file generator registration for IOS due to no valid BuildPlatform.
+Registering project generator UnrealBuildTool.LinuxProjectGenerator for Linux
+Skipping project file generator registration for Linux due to no valid BuildPlatform.
+Registering project generator UnrealBuildTool.LinuxProjectGenerator for LinuxArm64
+Skipping project file generator registration for LinuxArm64 due to no valid BuildPlatform.
+Registering project generator UnrealBuildTool.MacProjectGenerator for Mac
+Skipping project file generator registration for Mac due to no valid BuildPlatform.
+Registering project generator UnrealBuildTool.TVOSProjectGenerator for TVOS
+Skipping project file generator registration for TVOS due to no valid BuildPlatform.
+Registering project generator UnrealBuildTool.WindowsProjectGenerator for Win64
+Registering project generator UnrealBuildTool.VisionOSProjectGenerator for VisionOS
+Skipping project file generator registration for VisionOS due to no valid BuildPlatform.
+
+---   SDK INFO START   ---
+---   SDK INFO END   ---
+
+
+Generating VisualStudio project files:
+Discovering modules, targets and source code for project...
+Found VisualStudio2022 installation: C:\Program Files\Microsoft Visual Studio\2022\Community (Product=Microsoft.VisualStudio.Product.Community, Version=17.11.35312.102)
+Found Visual Studio toolchain: C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629 (Family=14.33.31629, FamilyRank=5, Version=14.33.31631, Is64Bit=True, ReleaseChannel=Latest, Architecture=x64, Error=True, Redist=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Redist\MSVC\14.40.33807)
+Found Visual Studio toolchain: C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629 (Family=14.33.31629, FamilyRank=5, Version=14.33.31631, Is64Bit=True, ReleaseChannel=Latest, Architecture=arm64, Error=True, Redist=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Redist\MSVC\14.40.33807)
+Found Visual Studio toolchain: C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933 (Family=14.34.31933, FamilyRank=4, Version=14.34.31948, Is64Bit=True, ReleaseChannel=Latest, Architecture=x64, Error=False, Redist=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Redist\MSVC\14.40.33807)
+Found Visual Studio toolchain: C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933 (Family=14.34.31933, FamilyRank=4, Version=14.34.31948, Is64Bit=True, ReleaseChannel=Latest, Architecture=arm64, Error=False, Redist=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Redist\MSVC\14.40.33807)
+Found Visual Studio toolchain: C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532 (Family=14.36.32532, FamilyRank=2, Version=14.36.32546, Is64Bit=True, ReleaseChannel=Latest, Architecture=x64, Error=False, Redist=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Redist\MSVC\14.36.32532)
+Found Visual Studio toolchain: C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130 (Family=14.38.33130, FamilyRank=0, Version=14.38.33141, Is64Bit=True, ReleaseChannel=Latest, Architecture=x64, Error=False, Redist=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Redist\MSVC\14.40.33807)
+Found Visual Studio toolchain: C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120 (Family=14.41.34120, FamilyRank=5, Version=14.41.34120, Is64Bit=True, ReleaseChannel=Latest, Architecture=x64, Error=False, Redist=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Redist\MSVC\14.40.33807)
+Found Visual Studio toolchain: C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120 (Family=14.41.34120, FamilyRank=5, Version=14.41.34120, Is64Bit=True, ReleaseChannel=Latest, Architecture=arm64, Error=False, Redist=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Redist\MSVC\14.40.33807)
+Found Visual Studio toolchain: C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120 (Family=14.41.34120, FamilyRank=5, Version=14.41.34120, Is64Bit=True, ReleaseChannel=Latest, Architecture=arm64ec, Error=False, Redist=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Redist\MSVC\14.40.33807)
+Detected supported platforms: Win64
+Skipping C:\Unreal\UE_5.4\Engine\Intermediate\Build\BuildRules\UE5Rules.dll: File is installed
+Skipping C:\Unreal\UE_5.4\Engine\Intermediate\Build\BuildRules\UE5ProgramRules.dll: File is installed
+Compiled assembly file 'C:\School\MentalStresser\ThisKindaWorks\Intermediate\Build\BuildRules\ThisKindaWorksModuleRules.dll' appears to be for a newer CLR version or is otherwise invalid.  Unreal Build Tool will try to recompile this assembly now.  (Exception: Could not load file or assembly 'C:\School\MentalStresser\ThisKindaWorks\Intermediate\Build\BuildRules\ThisKindaWorksModuleRules.dll'. Format of the executable (.exe) or library (.dll) is invalid.)
+Adding event matcher: CompileEventMatcher
+Adding event matcher: LinkEventMatcher
+Adding event matcher: MicrosoftEventMatcher
+Adding event matcher: XoreaxEventMatcher
+C:\School\MentalStresser\ThisKindaWorks\Source\ThisKindaWorks\ThisKindaWorks.Build.cs(5,14): error CS0101: The namespace '<global namespace>' already contains a definition for 'ThisKindaWorks'
+C:\School\MentalStresser\ThisKindaWorks\Source\ThisKindaWorks\ThisKindaWorks.Build.cs(7,9): error CS0111: Type 'ThisKindaWorks' already defines a member called 'ThisKindaWorks' with the same parameter types
+Total execution time: 2.55 seconds
+Expecting to find a type to be declared in a target rules named 'ThisKindaWorksTarget'.  This type must derive from the 'TargetRules' type defined by UnrealBuildTool.
+CompilationResultException: Expecting to find a type to be declared in a target rules named 'ThisKindaWorksTarget'.  This type must derive from the 'TargetRules' type defined by UnrealBuildTool.
+   at UnrealBuildTool.RulesAssembly.CreateTargetRules(String TargetName, UnrealTargetPlatform Platform, UnrealTargetConfiguration Configuration, UnrealArchitectures Architectures, FileReference ProjectFile, CommandLineArguments Arguments, ILogger Logger, Boolean IsTestTarget, Boolean bSkipValidation, UnrealIntermediateEnvironment IntermediateEnvironment) in C:\Unreal\UE_5.4\Engine\Source\Programs\UnrealBuildTool\System\RulesAssembly.cs:line 852
+   at UnrealBuildTool.ProjectFileGenerator.AddProjectsForAllTargets(PlatformProjectGeneratorCollection PlatformProjectGenerators, List`1 AllGames, List`1 AllTargetFiles, String[] Arguments, List`1 EngineProjects, List`1 GameProjects, Dictionary`2 ProjectFileToUProjectFile, Dictionary`2 ProgramProjects, Dictionary`2 RulesAssemblies, ILogger Logger) in C:\Unreal\UE_5.4\Engine\Source\Programs\UnrealBuildTool\ProjectFiles\ProjectFileGenerator.cs:line 2782
+   at UnrealBuildTool.ProjectFileGenerator.GenerateProjectFiles(PlatformProjectGeneratorCollection PlatformProjectGenerators, String[] Arguments, Boolean bCacheDataForEditor, ILogger Logger) in C:\Unreal\UE_5.4\Engine\Source\Programs\UnrealBuildTool\ProjectFiles\ProjectFileGenerator.cs:line 1038
+   at UnrealBuildTool.GenerateProjectFilesMode.ExecuteAsync(CommandLineArguments Arguments, ILogger Logger) in C:\Unreal\UE_5.4\Engine\Source\Programs\UnrealBuildTool\Modes\GenerateProjectFilesMode.cs:line 65
+   at UnrealBuildTool.UnrealBuildTool.Main(String[] ArgumentsArray) in C:\Unreal\UE_5.4\Engine\Source\Programs\UnrealBuildTool\UnrealBuildTool.cs:line 660
+WriteFileIfChanged() wrote 0 changed files of 2 requested writes.
+Timeline:
+
+[ 0.000]
+[ 0.000](+2.576) <unknown>
+[ 2.576]
